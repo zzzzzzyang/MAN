@@ -40,7 +40,7 @@ Download [RAF-DB](http://www.whdeng.cn/RAF/model1.html#dataset), put it into the
              train_label.txt
              test_label.txt
          Image/aligned/
-	     			 train_00001_aligned.jpg
+         		 train_00001_aligned.jpg
              test_0001_aligned.jpg
              ...
 

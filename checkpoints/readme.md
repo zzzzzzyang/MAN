@@ -1,0 +1,1 @@
+The model checkpoint will write in this directory
