@@ -1,1 +1,1 @@
-The model checkpoint will write in this directory
+The model checkpoint will write in this directory.
