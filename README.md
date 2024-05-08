@@ -1,8 +1,11 @@
 # MAN: Mining Ambiguity and Noise for Facial Expression Recognition in the Wild
 
 The official implementation of the following paper at Pattern Recognition Letters:
+
 **Title:** MAN: Mining Ambiguity and Noise for Facial Expression Recognition in the Wild
+
 **Authors:** Ziyang Zhang, Xiao Sun, Jia Li, Meng Wang
+
 **Institute:** HFUT
 
 
@@ -15,7 +18,7 @@ Due to the ambiguous expressions and the subjectiveness of annotators, annotatio
 
 ## Pipeline
 
-![framework](https://picgo-cloud-storage.oss-cn-shanghai.aliyuncs.com/framework.png)
+![](framework.jpg)
 
 
 
